@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android-OMDb</string>
+    <string name="search">Search</string>
+    <string name="loading">Loading</string>
+    <string name="error_message_no_internet">Please check your network connection</string>
+    <string name="error_message_default">Something went wrong</string>
+    <string name="movie_button">View Details</string>
+</resources>
